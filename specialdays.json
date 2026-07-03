@@ -1,0 +1,14 @@
+{
+  "specialDays": {
+    "2026-07-09": { "name": "A Special Day", "note": "Happy birthday, Jyothi ❖ this app is yours" },
+    "2026-07-14": { "name": "Ashadha Amavasya", "note": "The new moon of Ashadha" },
+    "2026-07-29": { "name": "Guru Purnima", "note": "The full moon of teachers — honour those who gave you knowledge" },
+    "2026-08-08": { "name": "Kamika Ekadashi", "note": "Ekadashi of the month of Shravana" },
+    "2026-08-12": { "name": "Shravana Amavasya", "note": "The new moon of Shravana" },
+    "2026-08-17": { "name": "Naga Panchami", "note": "The day of the serpents" },
+    "2026-08-23": { "name": "Putrada Ekadashi", "note": "Shravana Shukla Ekadashi" },
+    "2026-08-27": { "name": "Raksha Bandhan · Shravana Purnima", "note": "The full moon of the sacred thread" },
+    "2026-09-10": { "name": "Bhadrapada Amavasya", "note": "The new moon of Bhadrapada" },
+    "2026-09-26": { "name": "Bhadrapada Purnima", "note": "The full moon of Bhadrapada" }
+  }
+}
